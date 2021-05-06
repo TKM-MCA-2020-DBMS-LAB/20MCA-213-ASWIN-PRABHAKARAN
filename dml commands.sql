@@ -145,7 +145,7 @@ mysql> select SUM(salary)  FROM employee;
 1 row in set (0.00 sec)
 
 
-(viii)	Change the salary of employee to 25000 whose designation is empno is 4.
+(viii)	Change the salary of employee to 25000 whose  empno is 4.
 
 
 mysql> select * from EMPLOYEE;
